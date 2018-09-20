@@ -71,7 +71,7 @@ CONFIG_ACPI_NUMA=y
 ##
 ## file: drivers/acpi/nfit/Kconfig
 ##
-CONFIG_ACPI_NFIT=y
+CONFIG_ACPI_NFIT=m
 
 ##
 ## file: drivers/android/Kconfig
